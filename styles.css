@@ -67,6 +67,19 @@ hr{
 
     
 }
+#boton{
+    padding: 0.7rem;
+    border: none;
+    border-radius: 5px;
+    background-color: #00c2cb;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+    font-size: 1rem;
+}
+#boton:hover {
+    background-color: #009aa1;
+}
 #overlay{
     display: flex;
     position: absolute;
