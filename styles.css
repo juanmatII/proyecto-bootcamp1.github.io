@@ -58,7 +58,7 @@ hr{
     display: flex;
     /* align-items: center;
     justify-content: center; */
-    background-image: url(/assets/fondoHero.png);
+    background-image: url(assets/fondoHero.png);
     background-size: cover;
     background-repeat: no-repeat;
     height: 78.5vh;
